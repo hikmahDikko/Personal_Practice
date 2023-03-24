@@ -1,3 +1,4 @@
+console.log("HELLO")
 //Type annotations
 let apple : number = 5;
 let spped : string = "fast";
